@@ -1,0 +1,32 @@
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo\PrismDemo.SimpleDataService\bin\Debug\PrismDemo.SimpleDataService.dll
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo\PrismDemo.SimpleDataService\bin\Debug\PrismDemo.SimpleDataService.pdb
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo\PrismDemo.SimpleDataService\bin\Debug\PrismDemo.Infrastructure.dll
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo\PrismDemo.SimpleDataService\bin\Debug\PrismDemo.Model.dll
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo\PrismDemo.SimpleDataService\bin\Debug\PrismDemo.SimpleData.dll
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo\PrismDemo.SimpleDataService\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo\PrismDemo.SimpleDataService\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo\PrismDemo.SimpleDataService\bin\Debug\PrismDemo.Infrastructure.pdb
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo\PrismDemo.SimpleDataService\bin\Debug\PrismDemo.Model.pdb
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo\PrismDemo.SimpleDataService\bin\Debug\PrismDemo.SimpleData.pdb
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo\PrismDemo.SimpleDataService\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo\PrismDemo.SimpleDataService\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo\PrismDemo.SimpleDataService\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo\PrismDemo.SimpleDataService\obj\Debug\PrismDemo.SimpleDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo\PrismDemo.SimpleDataService\obj\Debug\PrismDemo.SimpleDataService.dll
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo\PrismDemo.SimpleDataService\obj\Debug\PrismDemo.SimpleDataService.pdb
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo - v6\PrismDemo.SimpleDataService\bin\Debug\PrismDemo.SimpleDataService.dll
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo - v6\PrismDemo.SimpleDataService\bin\Debug\PrismDemo.SimpleDataService.pdb
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo - v6\PrismDemo.SimpleDataService\bin\Debug\PrismDemo.Infrastructure.dll
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo - v6\PrismDemo.SimpleDataService\bin\Debug\PrismDemo.Model.dll
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo - v6\PrismDemo.SimpleDataService\bin\Debug\PrismDemo.SimpleData.dll
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo - v6\PrismDemo.SimpleDataService\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo - v6\PrismDemo.SimpleDataService\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo - v6\PrismDemo.SimpleDataService\bin\Debug\PrismDemo.Infrastructure.pdb
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo - v6\PrismDemo.SimpleDataService\bin\Debug\PrismDemo.Model.pdb
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo - v6\PrismDemo.SimpleDataService\bin\Debug\PrismDemo.SimpleData.pdb
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo - v6\PrismDemo.SimpleDataService\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo - v6\PrismDemo.SimpleDataService\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo - v6\PrismDemo.SimpleDataService\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo - v6\PrismDemo.SimpleDataService\obj\Debug\PrismDemo.SimpleDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo - v6\PrismDemo.SimpleDataService\obj\Debug\PrismDemo.SimpleDataService.dll
+C:\Users\tginn\Documents\Oxygen Blast\PrismDemo - v6\PrismDemo.SimpleDataService\obj\Debug\PrismDemo.SimpleDataService.pdb
